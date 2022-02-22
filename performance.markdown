@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Performance
-permalink: /performance/
 ---
 
 #### 2022 Returns
