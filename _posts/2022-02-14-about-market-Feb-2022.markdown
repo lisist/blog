@@ -4,26 +4,21 @@ title:  "2월 시장에 대한 생각 - 힘겨루기"
 date:   2022-02-14 20:00:13 +0900
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+글로벌 긴축 사이클은 가속화. 영란은행의 금리 인상에 이어 ECB도 연내 금리 인상 가능성을 타진. 미국 CPI가 예상치를 상회하면서 연준이 곧장 금리 인상에 나서야 한다는 압박이 가중. 대다수 글로벌 중앙은행들이 경쟁적으로 금리 인상에 나섬. 2월 중 주식 시장을 중심으로 혼란이 진정되는 모습이 나타났지만 지난달과 같이 역금융장세 이어지고 있음.
 
-Jekyll requires blog post files to be named according to the following format:
+글로벌 긴축 흐름과 달리 중국의 통화 완화적 태도가 관찰. 중국은 지준율을 인하한데 이어 1월 중 1년, 5년 만기 LPR, MLF 인하를 단행. 중국 총사회신용융자 증가율 역시 10%가 넘어서며 정부의 완화정책의 효과가 일부 나타남. 주식 시장 하락세를 되돌리기 위해 국대를 투입하여 주가 관리까지 나섬. 중국 정책의 적극적인 선회는 성장을 위해 신용 확대에 의지하지 않겠다던 기존의 입장과는 다소 상반됨. 그만큼 중국이 당면하고 있는 경제적 문제들이 심각하다는 것을 보여주는 방증. 시장을 진정시키는 동시에 헝다 등 개발업체의 부실을 신속하게 정리하겠다는 계획이겠지만 중국 회사채 금리가 진정되지 않는 등 여전히 중국 정부의 완화책이 충분치 않다는 신호는 확인됨
 
-`YEAR-MONTH-DAY-title.MARKUP`
+러시아와 우크라아니(를 위시한 서방 세력)의 갈등 고조. 러시아는 군대를 우크라이나 국경에 배치해 전쟁 모드에 돌입. 우크라이나 침입에 대해 미국의 반응은 대만 편입을 노리는 중국에게 중요한 이정표가 될 것. 미국도 이를 알기에 무기력한 모습을 노출하지 않기 위해 노력할 것. 물러서기 어려운 양측의 대립이 이어지는 가운데 전면전은 피할 것이라는 예상이 우세. 그러나 전쟁은 예단하기 어려움. 만약 우크라이나에서 전면전이 발생한다면 파급 효과를 가늠하기 어려움. 전쟁이 시장에 미치는 영향을 묻는다면 코스톨라니는 "평화가 제일 중요한 것이다"라고 갈음. 군사 강국간 충돌은 2차 대전 이후 이어진 시장의 장기 추세를 훼손할 것
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+한국에서는 대선 선거운동이 진행되고 있고, 현정부는 거의 모든 부분에 대해 손을 놓고 있으. 기업, 자영업자, 노동자들이 각자 도생을 종용당함. 모든 우선순위가 선거 승리에 집중된 시점에서 경제 상황은 후순위. 한동안 현재의 금리 긴축 상황 이어질 것이라고 보며 피해자는 계쏙 발생할 것
 
-Jekyll also offers powerful support for code snippets:
+글로벌 지정학적 힘겨루기, 통화정책에 대한 힘겨루기, 시장의 황소와 곰의 힘겨루기, 대선에서의 힘겨루기 등등 많은 힘겨루기가 관찰되는 한 달이 이어질 것. 어느 쪽이든 이번 힘겨루기에서 밀리는 쪽이 치루어야 할 비용은 클 것
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+이러한 매크로 환경을 고려해서 지난 달 제시했던 모든 투자 전략이 아직도 유효하다고 판단
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+1. 한국 주식과 통화 가치 하락
+2. 중국 주식 시장 전반 하락
+3. 장단기 금리 스프레드 축소
+4. 미국 롱듀레이션 주식 가격 하락
+5. 금 가격 상승. 특히 전쟁 가능성 대비에 따라 보험용으로 금과 원자재 매수 강조
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
