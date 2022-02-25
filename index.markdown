@@ -9,13 +9,13 @@ layout: home
 
 존 메이나드 케인즈
 
-
-
-<br><br>
+![keynes](/assets/img/keynes.png)
 
 서촌투자연구회의 투자 철학은 다음과 같습니다 
 
 - 시장 수익률은 정규분포를 따르지 않는다
+
+- 시장은 이성이 아니라 동물적인 감각에 의해서 움직인다
 
 - 역사적 사실은 좋은 가이드가 되기는 하지만 동시에 <a href="https://www.joongang.co.kr/article/150044">러셀의 칠면조</a>를 잊지 말아야 한다
 
