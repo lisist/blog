@@ -7,6 +7,7 @@ title: Performance
 
 | As of Date | Period | Fund Return | KOSPI200 Return | Fund YTD | KOSPI YTD | vs.KOSPI YTD|
 |-------|--------|---------|---------|---------|---------|---------|
+| 11 Mar | Weekly | 2.46% | -1.78% | 4.00% | -10.38% | 14.38% |
 | 04 Mar | Weekly | 0.80% | 0.90% | 1.54% | -8.60% | 10.15% |
 | 25 Feb | Weekly | 1.11% | -2.78% | 0.74% | -9.51% | 10.25% |
 | 18 Feb | Weekly | 0.18% | -0.02% | -0.37% | -6.73% | 6.36% |
