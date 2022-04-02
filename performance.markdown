@@ -5,7 +5,7 @@ title: Performance
 
 #### 2022 Returns
 
-| As of Date | Period | Fund Return |  Fund YTD | KOSPI YTD | vs.KOSPI YTD|
+| As of Date | Period | Fund Return |  Fund YTD | Benchmark YTD | Outperformance|
 |-------|--------|---------|---------|---------|---------|
 | 1 Apr | Weekly | -0.30% | 2.26% | -8.19% | 10.45% |
 | 25 Mar | Weekly | -0.09% | 2.56% | -8.50% | 11.06% |
