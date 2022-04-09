@@ -7,6 +7,7 @@ title: Performance
 
 | As of Date | Period | Fund Return |  Fund YTD | Benchmark YTD | Outperformance|
 |-------|--------|---------|---------|---------|---------|
+| 8 Apr | Weekly | 1.14% | 3.40% | -10.19% | 13.58% |
 | 1 Apr | Weekly | -0.30% | 2.26% | -8.19% | 10.45% |
 | 25 Mar | Weekly | -0.09% | 2.56% | -8.50% | 11.06% |
 | 18 Mar | Weekly | -1.35% | 2.64% | -8.43% | 11.07% |
