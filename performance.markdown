@@ -5,7 +5,7 @@ title: Performance
 
 #### 2022 Returns
 
-| As of Date | Period | Fund Return |  Fund YTD | Benchmark YTD | Outperformance|
+| As of Date | Period | Fund Return |  Fund YTD | KOSPI200 YTD | Outperformance|
 |-------|--------|---------|---------|---------|---------|
 | 15 Apr | Weekly | 1.03% | 4.43% | -10.80% | 15.23% |
 | 8 Apr | Weekly | 1.14% | 3.40% | -10.19% | 13.58% |
@@ -22,6 +22,3 @@ title: Performance
 | 21 Jan | Weekly | 0.52% | -0.38% | -4.70% | 4.33% |
 | 14 Jan | Weekly | -0.53% | -0.90% | -1.72% | 0.83% |
 | 07 Jan | Weekly | -0.36% | -0.36% | -0.85% | 0.49% |
-
-
-* Benchmark : KOSPI200 인덱스
