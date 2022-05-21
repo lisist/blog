@@ -3,10 +3,11 @@ layout: page
 title: Performance
 ---
 
-#### 2022 Returns*
+#### 2022 Returns
 
-| As of Date | Weekly Return |  Fund YTD | KOSPI200 YTD | Diff|
+| As of Date | Weekly Return* |  Fund YTD | KOSPI200 YTD | Diff|
 |-------|--------|---------|---------|---------|---------|
+| 20 May | -1.03% | 6.83% | -12.09% | 18.92% |
 | 13 May | 0.97% | 7.93% | -13.18% | 21.12% |
 | 6 May | 1.09% | 6.88% | -12.18% | 19.06% |
 | 29 Apr | 0.21% | 5.72% | -10.45% | 16.17% |
