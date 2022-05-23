@@ -26,8 +26,14 @@ categories: jekyll update
 
 다만 최근 급격한 하락을 겪었던 주식의 경우 단기간 반등 움직임이 나타날 수 있음을 염두에 두고 포지션 조절해갈 것
 
+<br>
+<br>
+
 ---
 
 <h1> Thoughts on the markets (May) - A look of doubt </h1>
 
 The counter liquidity-driven market condition continues. Time-drag strategy of each country is getting less and less convicing. US consumer price data in April shows that high inflation environment can last longer than expected. On the other hand, world's growth engine are cooling down as growth rates in US and China are decreasing. The war between Russia and Ukraine, zero corona policy with lockdown measures in China are adrift without finding solutions. It becomes clear that there are no sharp solution to those pervasive problems.
+
+After FOMC meeting in May, chairman Powell raised the interest rate by 50bp while at the same time quelling market's concern of bigger tightening (50bps). It was interpreted as dovish, but on the other hand, it raised suspicions that the Fed cannot control inflation. Fed's credibility is the biggest asset and most powful weapon for fed to sustain inflation. The Fed will not give up it and will do whatever it takes to restore the credibility. Efforts to manage inflation by rasing interest rate and selling asset will continue as Biden administration emphasizes the responsibility of Fed for managing inflation.
+
