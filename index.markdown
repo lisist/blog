@@ -21,5 +21,12 @@ layout: home
 <p class="b">
 존 메이너드 케인스
 </p>
+<p class="a">
+Professional investment may be likened to those newspaper competitions in which the competitors have to pick out the six prettiest faces from a hundred photographs, the prize being awarded to the competitor whose choice most nearly corresponds to the average preferences of the competitors as a whole...  It is not a case of choosing those which, to the best of one's judgment, are really the prettiest, nor even those which average opinion genuinely thinks the prettiest. We have reached the third degree where we devote our intelligences to anticipating what average opinion expects the average opinion to be.
+</p>
+<p class="b">
+John Maynard Keynes
+</p>
+
 <br>
 ![keynes](/assets/img/keynes.png)
