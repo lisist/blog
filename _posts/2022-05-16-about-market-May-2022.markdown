@@ -25,3 +25,8 @@ categories: jekyll update
 - 암호화폐 전반 하락
 
 다만 최근 급격한 하락을 겪었던 주식의 경우 단기간 반등 움직임이 나타날 수 있음을 염두에 두고 포지션 조절해갈 것
+
+
+<h1> Thoughts on the markets (May) - A look of doubt </h1>
+
+The counter liquidity-driven market condition continues. Time-drag strategy of each country is getting less and less convicing. US consumer price data in April shows that high inflation environment can last longer than expected. On the other hand, world's growth engine are cooling down as growth rates in US and China are decreasing. The war between Russia and Ukraine, zero corona policy with lockdown measures in China are adrift without finding solutions. It becomes clear that there are no sharp solution to those pervasive problems.
