@@ -30,7 +30,7 @@ categories: jekyll update
 <br>
 
 ---
-
+<br>
 <h1> Thoughts on the markets (May) - A look of doubt </h1>
 
 The counter liquidity-driven market condition continues. Time-drag strategy of each country is getting less and less convicing. US consumer price data in April shows that high inflation environment can last longer than expected. On the other hand, world's growth engine are cooling down as growth rates in US and China are decreasing. The war between Russia and Ukraine, zero corona policy with lockdown measures in China are adrift without finding solutions. It becomes clear that there are no sharp solution to those pervasive problems.
