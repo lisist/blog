@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "9월 시장에 대한 생각 - 스팀롤러 앞에서 동전 줍기"
-date:   2022-08-15 23:50:00 +0900
+title:  "9월 시장에 대한 생각 - 태풍 경보"
+date:   2022-09-15 23:50:00 +0900
 categories: jekyll update
 ---
 
