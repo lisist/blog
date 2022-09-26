@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-### 서촌투자연구회는 
+### Lab MarketPlace는 
 #### 글로벌 매크로 분석을 통해 멀티 에셋 포트폴리오를 운영합니다
 
 <br>
