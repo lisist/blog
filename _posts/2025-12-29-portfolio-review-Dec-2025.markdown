@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "12월 시장에 대한 생각 - Pivot or No Pivot, that is NOT the question"
-date:   2022-12-16 08:00:00 +0900
+title:  "12월 포트폴리오 리뷰"
+date:   2024-12-29 08:00:00 +0900
 categories: jekyll update
 ---
 
@@ -22,3 +22,5 @@ categories: jekyll update
 - 금 상승/ 구리 하락
 
 - VIX 상승
+
+![alt text](image.png)
