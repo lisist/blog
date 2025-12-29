@@ -6,3 +6,6 @@ categories: jekyll update
 ---
 
 ![alt text](assets/img/dec12pfreviewclass1.png)
+
+<img src = "assets/img/dec12pfreviewclass1.png">
+
