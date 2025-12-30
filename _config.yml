@@ -21,7 +21,7 @@
 title: Conifer Investment
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  © 2022 Conifer Investment
+  © 2022-2025 Conifer Investment
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://lisist.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 

@@ -17,8 +17,4 @@ layout: home
 </style>
 
 <br>
-![asset allocations](/assets/img/dec25pfreviewclass1.png)
-
-![currency allcoation](/assets/img/dec25pfreviewclass2.png)
-
-![thems](assets/img/dec25thems.png)
+![Portfolio Review](assets/img/dec25pfreview.png)
