@@ -17,8 +17,8 @@ layout: home
 </style>
 
 <br>
-![asset allocation](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9SbE3vYKEgDmnzPnUKNrFT6bTRygPPJiOTnDHe2IEvr2zNbbaYu_0Cgc3iWCrk3gizIvg1df4odxf/pubchart?oid=2125322303&amp;format=image)
+![asset allocation](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9SbE3vYKEgDmnzPnUKNrFT6bTRygPPJiOTnDHe2IEvr2zNbbaYu_0Cgc3iWCrk3gizIvg1df4odxf/pubchart?oid=1163839158&format=image)
 
-![currency allocation](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9SbE3vYKEgDmnzPnUKNrFT6bTRygPPJiOTnDHe2IEvr2zNbbaYu_0Cgc3iWCrk3gizIvg1df4odxf/pubchart?oid=4622905&amp;format=image)
+![currency allocation](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9SbE3vYKEgDmnzPnUKNrFT6bTRygPPJiOTnDHe2IEvr2zNbbaYu_0Cgc3iWCrk3gizIvg1df4odxf/pubchart?oid=181590219&format=image)
 
-![themes](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9SbE3vYKEgDmnzPnUKNrFT6bTRygPPJiOTnDHe2IEvr2zNbbaYu_0Cgc3iWCrk3gizIvg1df4odxf/pubchart?oid=798124913&amp;format=image)
+![themes](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9SbE3vYKEgDmnzPnUKNrFT6bTRygPPJiOTnDHe2IEvr2zNbbaYu_0Cgc3iWCrk3gizIvg1df4odxf/pubchart?oid=1069428332&format=image)
